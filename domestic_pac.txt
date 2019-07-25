@@ -2,6 +2,7 @@
 
 ! All government website.
 *.gov.cn^
+@@english.customs.gov.cn^
 
 ! Provincial Party Medias.
 ||cnhubei.com^
