@@ -1,0 +1,6 @@
+! All government website, including domestic party media.
+||gov.cn^
+||cnhubei.com^
+
+! Websites that block foreign IP address access.
+||tianyancha.com^
