@@ -1,6 +1,22 @@
-! All government website, including domestic party media.
-||gov.cn^
+!! This file is meant for convenient access of Chinese websites that may or may not blocked foreign accesses (including government websites), in aid of proxy inside of China.
+
+! All government website.
+*.gov.cn^
+
+! Provincial Party Medias.
 ||cnhubei.com^
+||xhby.net^
+||yzwb.net^
+||southcn.com^
+||zjol.com.cn^
+||fjsen.com^
+||dzwww.com^
+||cqrb.cn^
+||dahe.cn^
+||hebnews.cn^
+||voc.com.cn^
+||cdrb.com.cn^
 
 ! Websites that block foreign IP address access.
 ||tianyancha.com^
+
