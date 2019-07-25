@@ -20,3 +20,6 @@
 ! Websites that block foreign IP address access.
 ||tianyancha.com^
 
+! Social media
+||weibo.com^
+
